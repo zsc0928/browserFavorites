@@ -1422,7 +1422,7 @@
                     },
                     {
                         "dateAdded": 1747197426058,
-                        "dateLastUsed": 1747217246911,
+                        "dateLastUsed": 1747268951976,
                         "id": "3706",
                         "index": 2,
                         "parentId": "3564",
@@ -2086,33 +2086,6 @@
                                 "syncing": true,
                                 "title": "《古龙风云录》全流程通关攻略 主线、支线、物品收集、成就攻略_序章-恶人谷、仁义庄-游民星空 GamerSky.com",
                                 "url": "https://www.gamersky.com/handbook/202402/1706480.shtml"
-                            },
-                            {
-                                "dateAdded": 1747213582543,
-                                "id": "3841",
-                                "index": 10,
-                                "parentId": "3766",
-                                "syncing": true,
-                                "title": "文琪小站-CSDN博客",
-                                "url": "https://blog.csdn.net/pccaiqq?type=blog"
-                            },
-                            {
-                                "dateAdded": 1747214964402,
-                                "id": "3842",
-                                "index": 11,
-                                "parentId": "3766",
-                                "syncing": true,
-                                "title": "2024年下半年系统分析师论文-CSDN博客",
-                                "url": "https://blog.csdn.net/pccaiqq/article/details/143652636?spm=1001.2014.3001.5502"
-                            },
-                            {
-                                "dateAdded": 1747268927204,
-                                "id": "3844",
-                                "index": 12,
-                                "parentId": "3766",
-                                "syncing": true,
-                                "title": "软考达人—专业的软考刷题题库，软考历年真题，软考模拟考试，软考考前押题。柴丁科技",
-                                "url": "https://ruankaokao.com/exam/#/"
                             }
                         ],
                         "dateAdded": 1747197426067,
@@ -2466,10 +2439,39 @@
                         "syncing": true,
                         "title": "91KE",
                         "url": "https://91ke.cn/info/info?id=20"
+                    },
+                    {
+                        "dateAdded": 1747213582543,
+                        "dateLastUsed": 1747269081032,
+                        "id": "3841",
+                        "index": 12,
+                        "parentId": "3568",
+                        "syncing": true,
+                        "title": "文琪小站-CSDN博客",
+                        "url": "https://blog.csdn.net/pccaiqq?type=blog"
+                    },
+                    {
+                        "dateAdded": 1747214964402,
+                        "dateLastUsed": 1747269087615,
+                        "id": "3842",
+                        "index": 13,
+                        "parentId": "3568",
+                        "syncing": true,
+                        "title": "2024年下半年系统分析师论文-CSDN博客",
+                        "url": "https://blog.csdn.net/pccaiqq/article/details/143652636?spm=1001.2014.3001.5502"
+                    },
+                    {
+                        "dateAdded": 1747268927204,
+                        "id": "3844",
+                        "index": 14,
+                        "parentId": "3568",
+                        "syncing": true,
+                        "title": "软考达人—专业的软考刷题题库，软考历年真题，软考模拟考试，软考考前押题。柴丁科技",
+                        "url": "https://ruankaokao.com/exam/#/"
                     }
                 ],
                 "dateAdded": 1747197426040,
-                "dateGroupModified": 1747197426072,
+                "dateGroupModified": 1747269052981,
                 "id": "3568",
                 "index": 14,
                 "parentId": "1",
