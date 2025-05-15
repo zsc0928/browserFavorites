@@ -12,7 +12,7 @@
             },
             {
                 "dateAdded": 1747197426038,
-                "dateLastUsed": 1747212694918,
+                "dateLastUsed": 1747272540799,
                 "id": "3555",
                 "index": 1,
                 "parentId": "1",
@@ -903,10 +903,19 @@
                         "syncing": true,
                         "title": "快速入门 – React 中文文档",
                         "url": "https://zh-hans.react.dev/learn"
+                    },
+                    {
+                        "dateAdded": 1747272669678,
+                        "id": "3845",
+                        "index": 24,
+                        "parentId": "3559",
+                        "syncing": true,
+                        "title": "ChatUI",
+                        "url": "https://chatui.io/components/chat"
                     }
                 ],
                 "dateAdded": 1747197426039,
-                "dateGroupModified": 1747197426051,
+                "dateGroupModified": 1747272677151,
                 "id": "3559",
                 "index": 5,
                 "parentId": "1",
@@ -1486,7 +1495,7 @@
                     },
                     {
                         "dateAdded": 1747197426059,
-                        "dateLastUsed": 1747206715394,
+                        "dateLastUsed": 1747269132042,
                         "id": "3713",
                         "index": 9,
                         "parentId": "3564",
@@ -2471,7 +2480,7 @@
                     }
                 ],
                 "dateAdded": 1747197426040,
-                "dateGroupModified": 1747269052981,
+                "dateGroupModified": 1747272669678,
                 "id": "3568",
                 "index": 14,
                 "parentId": "1",
@@ -2581,7 +2590,7 @@
                     },
                     {
                         "dateAdded": 1747197426074,
-                        "dateLastUsed": 1747212654105,
+                        "dateLastUsed": 1747272244956,
                         "id": "3815",
                         "index": 11,
                         "parentId": "3569",
