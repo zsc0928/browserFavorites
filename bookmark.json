@@ -12,7 +12,7 @@
             },
             {
                 "dateAdded": 1749003852697,
-                "dateLastUsed": 1770261015437,
+                "dateLastUsed": 1776136122357,
                 "id": "4148",
                 "index": 1,
                 "parentId": "1",
@@ -42,7 +42,7 @@
                     },
                     {
                         "dateAdded": 1749003852700,
-                        "dateLastUsed": 1765524421815,
+                        "dateLastUsed": 1774838686455,
                         "id": "4165",
                         "index": 2,
                         "parentId": "4149",
@@ -52,17 +52,17 @@
                     },
                     {
                         "dateAdded": 1762417007249,
-                        "dateLastUsed": 1772526667336,
+                        "dateLastUsed": 1776129902395,
                         "id": "4460",
                         "index": 3,
                         "parentId": "4149",
                         "syncing": true,
                         "title": "阿米巴经营管理系统",
-                        "url": "https://amoeba.skyhearing.cn/"
+                        "url": "https://aepm.skyhearing.cn/"
                     },
                     {
                         "dateAdded": 1749003852702,
-                        "dateLastUsed": 1772526541739,
+                        "dateLastUsed": 1775095324705,
                         "id": "4175",
                         "index": 4,
                         "parentId": "4149",
@@ -207,7 +207,7 @@
                     },
                     {
                         "dateAdded": 1749171987222,
-                        "dateLastUsed": 1765778540512,
+                        "dateLastUsed": 1774417898700,
                         "id": "4445",
                         "index": 19,
                         "parentId": "4149",
@@ -275,7 +275,7 @@
                     },
                     {
                         "dateAdded": 1749003852703,
-                        "dateLastUsed": 1768547490997,
+                        "dateLastUsed": 1774838677798,
                         "id": "4185",
                         "index": 2,
                         "parentId": "4150",
@@ -285,7 +285,7 @@
                     },
                     {
                         "dateAdded": 1749003852703,
-                        "dateLastUsed": 1768547495910,
+                        "dateLastUsed": 1775005961318,
                         "id": "4184",
                         "index": 3,
                         "parentId": "4150",
@@ -323,6 +323,7 @@
                     },
                     {
                         "dateAdded": 1749003852704,
+                        "dateLastUsed": 1773974091160,
                         "id": "4189",
                         "index": 7,
                         "parentId": "4150",
@@ -386,7 +387,7 @@
                     },
                     {
                         "dateAdded": 1749003852705,
-                        "dateLastUsed": 1765780093896,
+                        "dateLastUsed": 1773106517091,
                         "id": "4196",
                         "index": 14,
                         "parentId": "4150",
@@ -396,6 +397,7 @@
                     },
                     {
                         "dateAdded": 1749003852705,
+                        "dateLastUsed": 1773975081755,
                         "id": "4197",
                         "index": 15,
                         "parentId": "4150",
@@ -441,6 +443,7 @@
                     },
                     {
                         "dateAdded": 1749003852705,
+                        "dateLastUsed": 1773106516300,
                         "id": "4202",
                         "index": 20,
                         "parentId": "4150",
@@ -477,7 +480,7 @@
                     },
                     {
                         "dateAdded": 1764120422536,
-                        "dateLastUsed": 1765934680665,
+                        "dateLastUsed": 1773975105722,
                         "id": "4462",
                         "index": 24,
                         "parentId": "4150",
@@ -503,10 +506,20 @@
                         "syncing": true,
                         "title": "开始 | 钉钉宜搭",
                         "url": "https://poc.aliwork.com/workPlatform?"
+                    },
+                    {
+                        "dateAdded": 1773106622167,
+                        "dateLastUsed": 1774230069902,
+                        "id": "4470",
+                        "index": 27,
+                        "parentId": "4150",
+                        "syncing": true,
+                        "title": "钉钉开放平台",
+                        "url": "https://open.dingtalk.com/document/ability/map"
                     }
                 ],
                 "dateAdded": 1749003852698,
-                "dateGroupModified": 1768547490456,
+                "dateGroupModified": 1774934262272,
                 "id": "4150",
                 "index": 3,
                 "parentId": "1",
@@ -545,7 +558,7 @@
                     },
                     {
                         "dateAdded": 1749003852707,
-                        "dateLastUsed": 1772523665393,
+                        "dateLastUsed": 1775540785561,
                         "id": "4209",
                         "index": 3,
                         "parentId": "4151",
@@ -752,7 +765,7 @@
                             },
                             {
                                 "dateAdded": 1749003852738,
-                                "dateLastUsed": 1772515435329,
+                                "dateLastUsed": 1775632311652,
                                 "id": "4426",
                                 "index": 3,
                                 "parentId": "4227",
@@ -771,7 +784,7 @@
                             },
                             {
                                 "dateAdded": 1749003852738,
-                                "dateLastUsed": 1768804544923,
+                                "dateLastUsed": 1773821155931,
                                 "id": "4428",
                                 "index": 5,
                                 "parentId": "4227",
@@ -836,6 +849,7 @@
                     },
                     {
                         "dateAdded": 1749003852710,
+                        "dateLastUsed": 1774322787138,
                         "id": "4233",
                         "index": 6,
                         "parentId": "4152",
@@ -1179,7 +1193,7 @@
                     },
                     {
                         "dateAdded": 1749003852714,
-                        "dateLastUsed": 1768958112072,
+                        "dateLastUsed": 1775539542489,
                         "id": "4263",
                         "index": 4,
                         "parentId": "4154",
@@ -1189,7 +1203,7 @@
                     },
                     {
                         "dateAdded": 1749003852714,
-                        "dateLastUsed": 1768268692013,
+                        "dateLastUsed": 1775098931469,
                         "id": "4264",
                         "index": 5,
                         "parentId": "4154",
@@ -1459,6 +1473,7 @@
                     },
                     {
                         "dateAdded": 1749003852718,
+                        "dateLastUsed": 1774501417863,
                         "id": "4291",
                         "index": 12,
                         "parentId": "4156",
@@ -1487,7 +1502,7 @@
                     },
                     {
                         "dateAdded": 1749003852719,
-                        "dateLastUsed": 1763039488260,
+                        "dateLastUsed": 1774248525578,
                         "id": "4294",
                         "index": 15,
                         "parentId": "4156",
@@ -1565,7 +1580,7 @@
                     },
                     {
                         "dateAdded": 1749003852720,
-                        "dateLastUsed": 1769507076155,
+                        "dateLastUsed": 1775716935476,
                         "id": "4301",
                         "index": 2,
                         "parentId": "4157",
@@ -2126,6 +2141,7 @@
                     },
                     {
                         "dateAdded": 1749003852728,
+                        "dateLastUsed": 1773303431523,
                         "id": "4360",
                         "index": 23,
                         "parentId": "4159",
@@ -2229,6 +2245,7 @@
                             },
                             {
                                 "dateAdded": 1749003852741,
+                                "dateLastUsed": 1774233467097,
                                 "id": "4441",
                                 "index": 9,
                                 "parentId": "4361",
@@ -2346,7 +2363,7 @@
                     },
                     {
                         "dateAdded": 1749003852730,
-                        "dateLastUsed": 1762686660932,
+                        "dateLastUsed": 1774059327624,
                         "id": "4373",
                         "index": 12,
                         "parentId": "4160",
@@ -2647,7 +2664,7 @@
                     },
                     {
                         "dateAdded": 1749003852735,
-                        "dateLastUsed": 1753835973034,
+                        "dateLastUsed": 1773199751516,
                         "id": "4403",
                         "index": 16,
                         "parentId": "4161",
@@ -2686,7 +2703,7 @@
                 "children": [
                     {
                         "dateAdded": 1749003852735,
-                        "dateLastUsed": 1766626395015,
+                        "dateLastUsed": 1775539579771,
                         "id": "4404",
                         "index": 0,
                         "parentId": "4162",
@@ -2778,7 +2795,7 @@
                     },
                     {
                         "dateAdded": 1749003852736,
-                        "dateLastUsed": 1772525141616,
+                        "dateLastUsed": 1776142030261,
                         "id": "4415",
                         "index": 10,
                         "parentId": "4162",
@@ -2788,6 +2805,7 @@
                     },
                     {
                         "dateAdded": 1749003852736,
+                        "dateLastUsed": 1775539586851,
                         "id": "4416",
                         "index": 11,
                         "parentId": "4162",
@@ -2797,7 +2815,7 @@
                     },
                     {
                         "dateAdded": 1749003852736,
-                        "dateLastUsed": 1770207999935,
+                        "dateLastUsed": 1775714757048,
                         "id": "4417",
                         "index": 12,
                         "parentId": "4162",
@@ -2852,10 +2870,30 @@
                         "syncing": true,
                         "title": "豆包 - 字节跳动旗下 AI 智能助手",
                         "url": "https://www.doubao.com/chat/?from_login=1"
+                    },
+                    {
+                        "dateAdded": 1774934262272,
+                        "dateLastUsed": 1775713288784,
+                        "id": "4472",
+                        "index": 18,
+                        "parentId": "4162",
+                        "syncing": true,
+                        "title": "Claude Code 概述 - Claude Code Docs",
+                        "url": "https://code.claude.com/docs/zh-CN/overview"
+                    },
+                    {
+                        "dateAdded": 1775717268397,
+                        "dateLastUsed": 1776046857530,
+                        "id": "4474",
+                        "index": 19,
+                        "parentId": "4162",
+                        "syncing": true,
+                        "title": "DeepSeek 开放平台",
+                        "url": "https://platform.deepseek.com/usage"
                     }
                 ],
                 "dateAdded": 1749003852700,
-                "dateGroupModified": 1766992718876,
+                "dateGroupModified": 1775717268397,
                 "id": "4162",
                 "index": 15,
                 "parentId": "1",
