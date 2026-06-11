@@ -13,7 +13,7 @@
             },
             {
                 "dateAdded": 1779870314241,
-                "dateLastUsed": 1780562063423,
+                "dateLastUsed": 1780918739678,
                 "id": "4487",
                 "index": 1,
                 "parentId": "1",
@@ -25,7 +25,7 @@
                 "children": [
                     {
                         "dateAdded": 1780311643275,
-                        "dateLastUsed": 1780638705395,
+                        "dateLastUsed": 1781139264299,
                         "id": "4801",
                         "index": 0,
                         "parentId": "4488",
@@ -34,10 +34,20 @@
                         "url": "https://nanshan.aepm.skyhearing.cn/"
                     },
                     {
-                        "dateAdded": 1779870314243,
-                        "dateLastUsed": 1780644613644,
-                        "id": "4506",
+                        "dateAdded": 1780843780541,
+                        "dateLastUsed": 1781138940367,
+                        "id": "4809",
                         "index": 1,
+                        "parentId": "4488",
+                        "syncing": true,
+                        "title": "三方主数据接口文档.md",
+                        "url": "https://api.nanshan.aepm.skyhearing.cn/doc"
+                    },
+                    {
+                        "dateAdded": 1779870314243,
+                        "dateLastUsed": 1780963405877,
+                        "id": "4506",
+                        "index": 2,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "阿米巴经营管理系统",
@@ -45,18 +55,28 @@
                     },
                     {
                         "dateAdded": 1780367086610,
-                        "dateLastUsed": 1780638265573,
+                        "dateLastUsed": 1780963379891,
                         "id": "4803",
-                        "index": 2,
+                        "index": 3,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "【新】敏捷式预算执行系统",
                         "url": "https://aepm.skyhearing.com.cn/"
                     },
                     {
+                        "dateAdded": 1781145594607,
+                        "dateLastUsed": 1781145671803,
+                        "id": "4811",
+                        "index": 4,
+                        "parentId": "4488",
+                        "syncing": true,
+                        "title": "业财一体化平台",
+                        "url": "https://csfssc-pre.tuopukeji.cn/ecs_console/index.html#/login"
+                    },
+                    {
                         "dateAdded": 1779870314242,
                         "id": "4502",
-                        "index": 3,
+                        "index": 5,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "哗啦啦开放平台",
@@ -65,7 +85,7 @@
                     {
                         "dateAdded": 1779870314242,
                         "id": "4503",
-                        "index": 4,
+                        "index": 6,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "元年云",
@@ -75,7 +95,7 @@
                         "dateAdded": 1779870314243,
                         "dateLastUsed": 1780367076577,
                         "id": "4504",
-                        "index": 5,
+                        "index": 7,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "客户数据管理系统 - 暖调工作台",
@@ -83,8 +103,9 @@
                     },
                     {
                         "dateAdded": 1779870314243,
+                        "dateLastUsed": 1780827364775,
                         "id": "4505",
-                        "index": 6,
+                        "index": 8,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "官网H5",
@@ -93,7 +114,7 @@
                     {
                         "dateAdded": 1779870314244,
                         "id": "4513",
-                        "index": 7,
+                        "index": 9,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "【PSC】伙伴成功平台系统",
@@ -102,7 +123,7 @@
                     {
                         "dateAdded": 1779870314244,
                         "id": "4514",
-                        "index": 8,
+                        "index": 10,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "EHIS 健康指数",
@@ -111,7 +132,7 @@
                     {
                         "dateAdded": 1779870314244,
                         "id": "4515",
-                        "index": 9,
+                        "index": 11,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "【钉钉】ATT 敏捷跟踪",
@@ -120,7 +141,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4516",
-                        "index": 10,
+                        "index": 12,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "公众号",
@@ -129,7 +150,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4517",
-                        "index": 11,
+                        "index": 13,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "DsLink-五分钟实现搭建场景",
@@ -138,7 +159,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4518",
-                        "index": 12,
+                        "index": 14,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "Docs",
@@ -147,7 +168,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4519",
-                        "index": 13,
+                        "index": 15,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "前瞻网 - 发现趋势 预见未来_行业趋势研究报告_行业分析报告_产业规划",
@@ -156,7 +177,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4520",
-                        "index": 14,
+                        "index": 16,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "独立软件开发商（ISV）_为什么要成为金蝶ISV生态伙伴_金蝶软件官网",
@@ -165,7 +186,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4521",
-                        "index": 15,
+                        "index": 17,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "初来乍到？程序员，你的疑惑这里都有！",
@@ -174,7 +195,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4522",
-                        "index": 16,
+                        "index": 18,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "每刻报销",
@@ -183,7 +204,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4523",
-                        "index": 17,
+                        "index": 19,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "销帮帮",
@@ -192,7 +213,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4524",
-                        "index": 18,
+                        "index": 20,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "合思",
@@ -200,8 +221,9 @@
                     },
                     {
                         "dateAdded": 1779870314245,
+                        "dateLastUsed": 1780745364313,
                         "id": "4525",
-                        "index": 19,
+                        "index": 21,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "api开发手册",
@@ -209,8 +231,9 @@
                     },
                     {
                         "dateAdded": 1780646540997,
+                        "dateLastUsed": 1780850062282,
                         "id": "4805",
-                        "index": 20,
+                        "index": 22,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "知识库 - 飞书云文档",
@@ -218,7 +241,7 @@
                     }
                 ],
                 "dateAdded": 1779870314241,
-                "dateGroupModified": 1780646540997,
+                "dateGroupModified": 1781164284028,
                 "id": "4488",
                 "index": 2,
                 "parentId": "1",
@@ -265,6 +288,7 @@
                     },
                     {
                         "dateAdded": 1779870314246,
+                        "dateLastUsed": 1780987570587,
                         "id": "4530",
                         "index": 4,
                         "parentId": "4489",
@@ -1141,7 +1165,7 @@
                     },
                     {
                         "dateAdded": 1779870314257,
-                        "dateLastUsed": 1780298384324,
+                        "dateLastUsed": 1781148931315,
                         "id": "4613",
                         "index": 4,
                         "parentId": "4493",
@@ -1151,7 +1175,7 @@
                     },
                     {
                         "dateAdded": 1779870314257,
-                        "dateLastUsed": 1780298714119,
+                        "dateLastUsed": 1780835017886,
                         "id": "4614",
                         "index": 5,
                         "parentId": "4493",
@@ -1527,6 +1551,7 @@
                     },
                     {
                         "dateAdded": 1779870314262,
+                        "dateLastUsed": 1780828255890,
                         "id": "4652",
                         "index": 2,
                         "parentId": "4496",
@@ -2637,7 +2662,7 @@
                 "children": [
                     {
                         "dateAdded": 1779870314276,
-                        "dateLastUsed": 1780635782568,
+                        "dateLastUsed": 1781154837849,
                         "id": "4779",
                         "index": 0,
                         "parentId": "4501",
@@ -2647,7 +2672,7 @@
                     },
                     {
                         "dateAdded": 1779870314274,
-                        "dateLastUsed": 1780620940517,
+                        "dateLastUsed": 1781143642608,
                         "id": "4769",
                         "index": 1,
                         "parentId": "4501",
@@ -2666,10 +2691,28 @@
                         "url": "https://console.cloud.tencent.com/lighthouse/instance/detail?rid=15&id=lhins-6l5ink7n&tab=application"
                     },
                     {
+                        "dateAdded": 1780755026027,
+                        "id": "4807",
+                        "index": 3,
+                        "parentId": "4501",
+                        "syncing": true,
+                        "title": "Help AIO 一站式AI导航 | Claude/Gemini/Codex中转评测比价",
+                        "url": "https://www.helpaio.com/"
+                    },
+                    {
+                        "dateAdded": 1781164284028,
+                        "id": "4812",
+                        "index": 4,
+                        "parentId": "4501",
+                        "syncing": true,
+                        "title": "V2free",
+                        "url": "https://w2.v2free.cc/user"
+                    },
+                    {
                         "dateAdded": 1779870314276,
                         "dateLastUsed": 1779933657926,
                         "id": "4778",
-                        "index": 3,
+                        "index": 5,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "DeepSeek 开放平台",
@@ -2678,7 +2721,7 @@
                     {
                         "dateAdded": 1779870314273,
                         "id": "4760",
-                        "index": 4,
+                        "index": 6,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "ChatGPT",
@@ -2687,7 +2730,7 @@
                     {
                         "dateAdded": 1779870314273,
                         "id": "4761",
-                        "index": 5,
+                        "index": 7,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
@@ -2696,7 +2739,7 @@
                     {
                         "dateAdded": 1779870314274,
                         "id": "4762",
-                        "index": 6,
+                        "index": 8,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "讯飞绘文",
@@ -2705,7 +2748,7 @@
                     {
                         "dateAdded": 1779870314274,
                         "id": "4763",
-                        "index": 7,
+                        "index": 9,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "床长人工智能教程",
@@ -2714,7 +2757,7 @@
                     {
                         "dateAdded": 1779870314274,
                         "id": "4764",
-                        "index": 8,
+                        "index": 10,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "AINav.net - 一个属于AI人的导航网站",
@@ -2723,7 +2766,7 @@
                     {
                         "dateAdded": 1779870314274,
                         "id": "4765",
-                        "index": 9,
+                        "index": 11,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "科技熊工作室",
@@ -2732,7 +2775,7 @@
                     {
                         "dateAdded": 1779870314274,
                         "id": "4766",
-                        "index": 10,
+                        "index": 12,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "转写文件_讯飞听见",
@@ -2741,7 +2784,7 @@
                     {
                         "dateAdded": 1779870314274,
                         "id": "4767",
-                        "index": 11,
+                        "index": 13,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "功能体验 - 语音识别 - 控制台",
@@ -2750,7 +2793,7 @@
                     {
                         "dateAdded": 1779870314274,
                         "id": "4768",
-                        "index": 12,
+                        "index": 14,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "可灵 AI - 新一代 AI 创意生产力平台",
@@ -2760,7 +2803,7 @@
                         "dateAdded": 1779870314275,
                         "dateLastUsed": 1780147872169,
                         "id": "4770",
-                        "index": 13,
+                        "index": 15,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "阿里云百炼",
@@ -2770,29 +2813,11 @@
                         "dateAdded": 1779870314275,
                         "dateLastUsed": 1779940262393,
                         "id": "4771",
-                        "index": 14,
+                        "index": 16,
                         "parentId": "4501",
                         "syncing": true,
                         "title": "通义tongyi.ai_你的全能AI助手-通义千问",
                         "url": "https://tongyi.aliyun.com/qianwen/"
-                    },
-                    {
-                        "dateAdded": 1779870314275,
-                        "id": "4772",
-                        "index": 15,
-                        "parentId": "4501",
-                        "syncing": true,
-                        "title": "通义法睿 法律大模型 法律智能体 法律AI 人工智能-阿里云",
-                        "url": "https://tongyi.aliyun.com/farui/chat"
-                    },
-                    {
-                        "dateAdded": 1779870314275,
-                        "id": "4773",
-                        "index": 16,
-                        "parentId": "4501",
-                        "syncing": true,
-                        "title": "4.5 历史更新 - 飞书云文档",
-                        "url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc"
                     },
                     {
                         "dateAdded": 1779870314275,
@@ -2832,7 +2857,7 @@
                     }
                 ],
                 "dateAdded": 1779870314242,
-                "dateGroupModified": 1780311643275,
+                "dateGroupModified": 1781164300260,
                 "id": "4501",
                 "index": 15,
                 "parentId": "1",
