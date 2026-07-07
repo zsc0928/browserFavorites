@@ -13,7 +13,7 @@
             },
             {
                 "dateAdded": 1779870314241,
-                "dateLastUsed": 1780918739678,
+                "dateLastUsed": 1783400948548,
                 "id": "4487",
                 "index": 1,
                 "parentId": "1",
@@ -25,7 +25,7 @@
                 "children": [
                     {
                         "dateAdded": 1780311643275,
-                        "dateLastUsed": 1781139264299,
+                        "dateLastUsed": 1783407739841,
                         "id": "4801",
                         "index": 0,
                         "parentId": "4488",
@@ -35,7 +35,7 @@
                     },
                     {
                         "dateAdded": 1780843780541,
-                        "dateLastUsed": 1781138940367,
+                        "dateLastUsed": 1783308800823,
                         "id": "4809",
                         "index": 1,
                         "parentId": "4488",
@@ -45,7 +45,7 @@
                     },
                     {
                         "dateAdded": 1779870314243,
-                        "dateLastUsed": 1780963405877,
+                        "dateLastUsed": 1783400581814,
                         "id": "4506",
                         "index": 2,
                         "parentId": "4488",
@@ -55,7 +55,7 @@
                     },
                     {
                         "dateAdded": 1780367086610,
-                        "dateLastUsed": 1780963379891,
+                        "dateLastUsed": 1782269651047,
                         "id": "4803",
                         "index": 3,
                         "parentId": "4488",
@@ -64,10 +64,20 @@
                         "url": "https://aepm.skyhearing.com.cn/"
                     },
                     {
-                        "dateAdded": 1781145594607,
-                        "dateLastUsed": 1781145671803,
-                        "id": "4811",
+                        "dateAdded": 1781855497636,
+                        "dateLastUsed": 1782190862893,
+                        "id": "4814",
                         "index": 4,
+                        "parentId": "4488",
+                        "syncing": true,
+                        "title": "慧博元年总台",
+                        "url": "https://yuanian.aepm.skyhearing.cn/"
+                    },
+                    {
+                        "dateAdded": 1781145594607,
+                        "dateLastUsed": 1782786694097,
+                        "id": "4811",
+                        "index": 5,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "业财一体化平台",
@@ -76,7 +86,7 @@
                     {
                         "dateAdded": 1779870314242,
                         "id": "4502",
-                        "index": 5,
+                        "index": 6,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "哗啦啦开放平台",
@@ -85,7 +95,7 @@
                     {
                         "dateAdded": 1779870314242,
                         "id": "4503",
-                        "index": 6,
+                        "index": 7,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "元年云",
@@ -95,7 +105,7 @@
                         "dateAdded": 1779870314243,
                         "dateLastUsed": 1780367076577,
                         "id": "4504",
-                        "index": 7,
+                        "index": 8,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "客户数据管理系统 - 暖调工作台",
@@ -105,7 +115,7 @@
                         "dateAdded": 1779870314243,
                         "dateLastUsed": 1780827364775,
                         "id": "4505",
-                        "index": 8,
+                        "index": 9,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "官网H5",
@@ -114,7 +124,7 @@
                     {
                         "dateAdded": 1779870314244,
                         "id": "4513",
-                        "index": 9,
+                        "index": 10,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "【PSC】伙伴成功平台系统",
@@ -123,7 +133,7 @@
                     {
                         "dateAdded": 1779870314244,
                         "id": "4514",
-                        "index": 10,
+                        "index": 11,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "EHIS 健康指数",
@@ -132,7 +142,7 @@
                     {
                         "dateAdded": 1779870314244,
                         "id": "4515",
-                        "index": 11,
+                        "index": 12,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "【钉钉】ATT 敏捷跟踪",
@@ -141,7 +151,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4516",
-                        "index": 12,
+                        "index": 13,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "公众号",
@@ -150,7 +160,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4517",
-                        "index": 13,
+                        "index": 14,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "DsLink-五分钟实现搭建场景",
@@ -159,7 +169,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4518",
-                        "index": 14,
+                        "index": 15,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "Docs",
@@ -168,7 +178,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4519",
-                        "index": 15,
+                        "index": 16,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "前瞻网 - 发现趋势 预见未来_行业趋势研究报告_行业分析报告_产业规划",
@@ -177,7 +187,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4520",
-                        "index": 16,
+                        "index": 17,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "独立软件开发商（ISV）_为什么要成为金蝶ISV生态伙伴_金蝶软件官网",
@@ -186,7 +196,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4521",
-                        "index": 17,
+                        "index": 18,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "初来乍到？程序员，你的疑惑这里都有！",
@@ -195,7 +205,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4522",
-                        "index": 18,
+                        "index": 19,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "每刻报销",
@@ -204,7 +214,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4523",
-                        "index": 19,
+                        "index": 20,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "销帮帮",
@@ -213,7 +223,7 @@
                     {
                         "dateAdded": 1779870314245,
                         "id": "4524",
-                        "index": 20,
+                        "index": 21,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "合思",
@@ -223,7 +233,7 @@
                         "dateAdded": 1779870314245,
                         "dateLastUsed": 1780745364313,
                         "id": "4525",
-                        "index": 21,
+                        "index": 22,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "api开发手册",
@@ -231,17 +241,26 @@
                     },
                     {
                         "dateAdded": 1780646540997,
-                        "dateLastUsed": 1780850062282,
+                        "dateLastUsed": 1781601393153,
                         "id": "4805",
-                        "index": 22,
+                        "index": 23,
                         "parentId": "4488",
                         "syncing": true,
                         "title": "知识库 - 飞书云文档",
                         "url": "https://my.feishu.cn/wiki/"
+                    },
+                    {
+                        "dateAdded": 1783416671466,
+                        "id": "4816",
+                        "index": 24,
+                        "parentId": "4488",
+                        "syncing": true,
+                        "title": "2026采购季 | AI焕新·智启新局",
+                        "url": "https://cloud.tencent.com/act/pro/featured-202607?fromSource=gwzcw.12021631.12021631.12021631&utm_medium=cpc&utm_id=gwzcw.12021631.12021631.12021631&msclkid=cc9a64db74111e2950c00e97b357e001"
                     }
                 ],
                 "dateAdded": 1779870314241,
-                "dateGroupModified": 1781164284028,
+                "dateGroupModified": 1783416679558,
                 "id": "4488",
                 "index": 2,
                 "parentId": "1",
@@ -543,6 +562,7 @@
                     },
                     {
                         "dateAdded": 1779870314252,
+                        "dateLastUsed": 1782431340571,
                         "id": "4557",
                         "index": 3,
                         "parentId": "4490",
@@ -763,6 +783,7 @@
                             },
                             {
                                 "dateAdded": 1779870314277,
+                                "dateLastUsed": 1783067271066,
                                 "id": "4786",
                                 "index": 5,
                                 "parentId": "4575",
@@ -1165,7 +1186,7 @@
                     },
                     {
                         "dateAdded": 1779870314257,
-                        "dateLastUsed": 1781148931315,
+                        "dateLastUsed": 1782886172945,
                         "id": "4613",
                         "index": 4,
                         "parentId": "4493",
@@ -1175,7 +1196,7 @@
                     },
                     {
                         "dateAdded": 1779870314257,
-                        "dateLastUsed": 1780835017886,
+                        "dateLastUsed": 1781744772972,
                         "id": "4614",
                         "index": 5,
                         "parentId": "4493",
@@ -1191,10 +1212,19 @@
                         "syncing": true,
                         "title": "服务器 - 轻量云 - 控制台",
                         "url": "https://console.cloud.tencent.com/lighthouse/instance/index?rid=15"
+                    },
+                    {
+                        "dateAdded": 1783416679558,
+                        "id": "4817",
+                        "index": 7,
+                        "parentId": "4493",
+                        "syncing": true,
+                        "title": "腾讯云 产业智变·云启未来 - 腾讯",
+                        "url": "https://cloud.tencent.com/?Is=sdk-topnav"
                     }
                 ],
                 "dateAdded": 1779870314242,
-                "dateGroupModified": 1779870314258,
+                "dateGroupModified": 1783416688975,
                 "id": "4493",
                 "index": 7,
                 "parentId": "1",
@@ -1214,6 +1244,7 @@
                     },
                     {
                         "dateAdded": 1779870314258,
+                        "dateLastUsed": 1783055132688,
                         "id": "4617",
                         "index": 1,
                         "parentId": "4494",
@@ -1477,6 +1508,7 @@
                     },
                     {
                         "dateAdded": 1779870314262,
+                        "dateLastUsed": 1783330491875,
                         "id": "4645",
                         "index": 15,
                         "parentId": "4495",
@@ -1551,7 +1583,7 @@
                     },
                     {
                         "dateAdded": 1779870314262,
-                        "dateLastUsed": 1780828255890,
+                        "dateLastUsed": 1781613643662,
                         "id": "4652",
                         "index": 2,
                         "parentId": "4496",
@@ -1570,6 +1602,7 @@
                     },
                     {
                         "dateAdded": 1779870314263,
+                        "dateLastUsed": 1783300586761,
                         "id": "4654",
                         "index": 4,
                         "parentId": "4496",
@@ -1615,6 +1648,7 @@
                     },
                     {
                         "dateAdded": 1779870314263,
+                        "dateLastUsed": 1781601358653,
                         "id": "4659",
                         "index": 9,
                         "parentId": "4496",
@@ -2662,7 +2696,7 @@
                 "children": [
                     {
                         "dateAdded": 1779870314276,
-                        "dateLastUsed": 1781154837849,
+                        "dateLastUsed": 1783306193817,
                         "id": "4779",
                         "index": 0,
                         "parentId": "4501",
@@ -2672,7 +2706,7 @@
                     },
                     {
                         "dateAdded": 1779870314274,
-                        "dateLastUsed": 1781143642608,
+                        "dateLastUsed": 1783410608335,
                         "id": "4769",
                         "index": 1,
                         "parentId": "4501",
@@ -2811,7 +2845,7 @@
                     },
                     {
                         "dateAdded": 1779870314275,
-                        "dateLastUsed": 1779940262393,
+                        "dateLastUsed": 1783387178532,
                         "id": "4771",
                         "index": 16,
                         "parentId": "4501",
@@ -2857,7 +2891,7 @@
                     }
                 ],
                 "dateAdded": 1779870314242,
-                "dateGroupModified": 1781164300260,
+                "dateGroupModified": 1781855497636,
                 "id": "4501",
                 "index": 15,
                 "parentId": "1",
