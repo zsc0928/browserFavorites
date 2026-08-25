@@ -13,7 +13,7 @@
             },
             {
                 "dateAdded": 1782956702770,
-                "dateLastUsed": 1787040136942,
+                "dateLastUsed": 1787580918812,
                 "id": "4255",
                 "index": 1,
                 "parentId": "1",
@@ -25,7 +25,7 @@
                 "children": [
                     {
                         "dateAdded": 1782956702796,
-                        "dateLastUsed": 1787276717893,
+                        "dateLastUsed": 1787619912182,
                         "id": "4270",
                         "index": 0,
                         "parentId": "4256",
@@ -55,7 +55,7 @@
                     },
                     {
                         "dateAdded": 1782956702796,
-                        "dateLastUsed": 1787188305324,
+                        "dateLastUsed": 1787628980005,
                         "id": "4273",
                         "index": 3,
                         "parentId": "4256",
@@ -1500,7 +1500,7 @@
                     },
                     {
                         "dateAdded": 1782956702800,
-                        "dateLastUsed": 1787017223532,
+                        "dateLastUsed": 1787290112681,
                         "id": "4412",
                         "index": 15,
                         "parentId": "4263",
@@ -1575,7 +1575,7 @@
                     },
                     {
                         "dateAdded": 1782956702800,
-                        "dateLastUsed": 1784007227705,
+                        "dateLastUsed": 1787290619243,
                         "id": "4419",
                         "index": 2,
                         "parentId": "4264",
@@ -1585,7 +1585,7 @@
                     },
                     {
                         "dateAdded": 1782956702800,
-                        "dateLastUsed": 1787118435948,
+                        "dateLastUsed": 1787290621179,
                         "id": "4420",
                         "index": 3,
                         "parentId": "4264",
@@ -2710,7 +2710,7 @@
                 "children": [
                     {
                         "dateAdded": 1787277888128,
-                        "dateLastUsed": 1787277899330,
+                        "dateLastUsed": 1787620189495,
                         "id": "4579",
                         "index": 0,
                         "parentId": "4269",
@@ -2730,7 +2730,7 @@
                     },
                     {
                         "dateAdded": 1782956702803,
-                        "dateLastUsed": 1787217037167,
+                        "dateLastUsed": 1787576914605,
                         "id": "4527",
                         "index": 2,
                         "parentId": "4269",
@@ -2740,7 +2740,7 @@
                     },
                     {
                         "dateAdded": 1782956702803,
-                        "dateLastUsed": 1787124954692,
+                        "dateLastUsed": 1787533963212,
                         "id": "4530",
                         "index": 3,
                         "parentId": "4269",
@@ -2758,23 +2758,24 @@
                         "url": "https://console.cloud.tencent.com/lighthouse/instance/detail?rid=15&id=lhins-6l5ink7n&tab=application"
                     },
                     {
-                        "dateAdded": 1786955532542,
-                        "id": "4577",
+                        "dateAdded": 1782956702804,
+                        "dateLastUsed": 1786955877619,
+                        "id": "4545",
                         "index": 5,
                         "parentId": "4269",
                         "syncing": true,
-                        "title": "即梦AI - 一站式AI创作平台",
-                        "url": "https://jimeng.jianying.com/ai-tool/home"
+                        "title": "豆包 - 字节跳动旗下 AI 智能助手",
+                        "url": "https://www.doubao.com/chat/?from_login=1"
                     },
                     {
-                        "dateAdded": 1782956702803,
-                        "dateLastUsed": 1786503929036,
-                        "id": "4529",
+                        "dateAdded": 1782956702804,
+                        "dateLastUsed": 1787020740932,
+                        "id": "4542",
                         "index": 6,
                         "parentId": "4269",
                         "syncing": true,
-                        "title": "Help AIO 一站式AI导航 | Claude/Gemini/Codex中转评测比价",
-                        "url": "https://www.helpaio.com/"
+                        "title": "通义tongyi.ai_你的全能AI助手-通义千问",
+                        "url": "https://tongyi.aliyun.com/qianwen/"
                     },
                     {
                         "dateAdded": 1782956702803,
@@ -2787,10 +2788,29 @@
                         "url": "https://platform.deepseek.com/usage"
                     },
                     {
+                        "dateAdded": 1786955532542,
+                        "id": "4577",
+                        "index": 8,
+                        "parentId": "4269",
+                        "syncing": true,
+                        "title": "即梦AI - 一站式AI创作平台",
+                        "url": "https://jimeng.jianying.com/ai-tool/home"
+                    },
+                    {
+                        "dateAdded": 1782956702803,
+                        "dateLastUsed": 1786503929036,
+                        "id": "4529",
+                        "index": 9,
+                        "parentId": "4269",
+                        "syncing": true,
+                        "title": "Help AIO 一站式AI导航 | Claude/Gemini/Codex中转评测比价",
+                        "url": "https://www.helpaio.com/"
+                    },
+                    {
                         "dateAdded": 1782956702804,
                         "dateLastUsed": 1785985923127,
                         "id": "4532",
-                        "index": 8,
+                        "index": 10,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "ChatGPT",
@@ -2799,7 +2819,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4533",
-                        "index": 9,
+                        "index": 11,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
@@ -2808,7 +2828,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4534",
-                        "index": 10,
+                        "index": 12,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "讯飞绘文",
@@ -2817,7 +2837,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4535",
-                        "index": 11,
+                        "index": 13,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "床长人工智能教程",
@@ -2826,7 +2846,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4536",
-                        "index": 12,
+                        "index": 14,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "AINav.net - 一个属于AI人的导航网站",
@@ -2835,7 +2855,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4538",
-                        "index": 13,
+                        "index": 15,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "转写文件_讯飞听见",
@@ -2844,7 +2864,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4539",
-                        "index": 14,
+                        "index": 16,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "功能体验 - 语音识别 - 控制台",
@@ -2853,7 +2873,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4540",
-                        "index": 15,
+                        "index": 17,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "可灵 AI - 新一代 AI 创意生产力平台",
@@ -2862,7 +2882,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4541",
-                        "index": 16,
+                        "index": 18,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "阿里云百炼",
@@ -2870,18 +2890,8 @@
                     },
                     {
                         "dateAdded": 1782956702804,
-                        "dateLastUsed": 1787020740932,
-                        "id": "4542",
-                        "index": 17,
-                        "parentId": "4269",
-                        "syncing": true,
-                        "title": "通义tongyi.ai_你的全能AI助手-通义千问",
-                        "url": "https://tongyi.aliyun.com/qianwen/"
-                    },
-                    {
-                        "dateAdded": 1782956702804,
                         "id": "4543",
-                        "index": 18,
+                        "index": 19,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "主页 - 扣子",
@@ -2890,21 +2900,11 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4544",
-                        "index": 19,
+                        "index": 20,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "扣子空间",
                         "url": "https://space.coze.cn/"
-                    },
-                    {
-                        "dateAdded": 1782956702804,
-                        "dateLastUsed": 1786955877619,
-                        "id": "4545",
-                        "index": 20,
-                        "parentId": "4269",
-                        "syncing": true,
-                        "title": "豆包 - 字节跳动旗下 AI 智能助手",
-                        "url": "https://www.doubao.com/chat/?from_login=1"
                     },
                     {
                         "dateAdded": 1782956702804,
@@ -2917,7 +2917,7 @@
                     }
                 ],
                 "dateAdded": 1782956702770,
-                "dateGroupModified": 1787277894708,
+                "dateGroupModified": 1787637552638,
                 "id": "4269",
                 "index": 15,
                 "parentId": "1",
