@@ -3,7 +3,7 @@
         "children": [
             {
                 "dateAdded": 1782956702770,
-                "dateLastUsed": 1787194396841,
+                "dateLastUsed": 1788765259758,
                 "id": "4254",
                 "index": 0,
                 "parentId": "1",
@@ -13,7 +13,7 @@
             },
             {
                 "dateAdded": 1782956702770,
-                "dateLastUsed": 1787580918812,
+                "dateLastUsed": 1789105777412,
                 "id": "4255",
                 "index": 1,
                 "parentId": "1",
@@ -25,7 +25,7 @@
                 "children": [
                     {
                         "dateAdded": 1782956702796,
-                        "dateLastUsed": 1787619912182,
+                        "dateLastUsed": 1789348023724,
                         "id": "4270",
                         "index": 0,
                         "parentId": "4256",
@@ -45,7 +45,7 @@
                     },
                     {
                         "dateAdded": 1782956702796,
-                        "dateLastUsed": 1787131838394,
+                        "dateLastUsed": 1788317188273,
                         "id": "4272",
                         "index": 2,
                         "parentId": "4256",
@@ -55,7 +55,7 @@
                     },
                     {
                         "dateAdded": 1782956702796,
-                        "dateLastUsed": 1787628980005,
+                        "dateLastUsed": 1787819539524,
                         "id": "4273",
                         "index": 3,
                         "parentId": "4256",
@@ -298,6 +298,7 @@
                     },
                     {
                         "dateAdded": 1782956702796,
+                        "dateLastUsed": 1788402584940,
                         "id": "4297",
                         "index": 4,
                         "parentId": "4257",
@@ -783,6 +784,7 @@
                             },
                             {
                                 "dateAdded": 1782956702856,
+                                "dateLastUsed": 1789298836393,
                                 "id": "4552",
                                 "index": 5,
                                 "parentId": "4342",
@@ -801,7 +803,7 @@
                     },
                     {
                         "dateAdded": 1782956702798,
-                        "dateLastUsed": 1785208001907,
+                        "dateLastUsed": 1788850207092,
                         "id": "4343",
                         "index": 1,
                         "parentId": "4259",
@@ -1186,7 +1188,7 @@
                     },
                     {
                         "dateAdded": 1782956702799,
-                        "dateLastUsed": 1786947835179,
+                        "dateLastUsed": 1788943427065,
                         "id": "4380",
                         "index": 4,
                         "parentId": "4261",
@@ -1234,7 +1236,7 @@
                     },
                     {
                         "dateAdded": 1782956702799,
-                        "dateLastUsed": 1786944713186,
+                        "dateLastUsed": 1788506423692,
                         "id": "4384",
                         "index": 1,
                         "parentId": "4262",
@@ -1419,6 +1421,7 @@
                     },
                     {
                         "dateAdded": 1782956702799,
+                        "dateLastUsed": 1789373701715,
                         "id": "4403",
                         "index": 6,
                         "parentId": "4263",
@@ -1437,26 +1440,8 @@
                     },
                     {
                         "dateAdded": 1782956702800,
-                        "id": "4405",
-                        "index": 8,
-                        "parentId": "4263",
-                        "syncing": true,
-                        "title": "晋城市统计局",
-                        "url": "http://tjj.jcgov.gov.cn/tjfx/202107/t20210722_1439311.html"
-                    },
-                    {
-                        "dateAdded": 1782956702800,
-                        "id": "4406",
-                        "index": 9,
-                        "parentId": "4263",
-                        "syncing": true,
-                        "title": "晋城市统计局",
-                        "url": "http://tjj.jcgov.gov.cn/"
-                    },
-                    {
-                        "dateAdded": 1782956702800,
                         "id": "4407",
-                        "index": 10,
+                        "index": 8,
                         "parentId": "4263",
                         "syncing": true,
                         "title": "晋城房地产数据库，2009年开始实时更新—禧泰数据",
@@ -1465,7 +1450,7 @@
                     {
                         "dateAdded": 1782956702800,
                         "id": "4408",
-                        "index": 11,
+                        "index": 9,
                         "parentId": "4263",
                         "syncing": true,
                         "title": "知微事见",
@@ -1474,7 +1459,7 @@
                     {
                         "dateAdded": 1782956702800,
                         "id": "4409",
-                        "index": 12,
+                        "index": 10,
                         "parentId": "4263",
                         "syncing": true,
                         "title": "百度贴吧——全球领先的中文社区",
@@ -1482,8 +1467,9 @@
                     },
                     {
                         "dateAdded": 1782956702800,
+                        "dateLastUsed": 1788310771970,
                         "id": "4410",
-                        "index": 13,
+                        "index": 11,
                         "parentId": "4263",
                         "syncing": true,
                         "title": "(18 封私信 / 82 条消息) 首页 - 知乎",
@@ -1492,7 +1478,7 @@
                     {
                         "dateAdded": 1782956702800,
                         "id": "4411",
-                        "index": 14,
+                        "index": 12,
                         "parentId": "4263",
                         "syncing": true,
                         "title": "晋城房产网-晋城在线楼盘、二手房、租房信息网",
@@ -1500,9 +1486,9 @@
                     },
                     {
                         "dateAdded": 1782956702800,
-                        "dateLastUsed": 1787290112681,
+                        "dateLastUsed": 1788830201831,
                         "id": "4412",
-                        "index": 15,
+                        "index": 13,
                         "parentId": "4263",
                         "syncing": true,
                         "title": "小红书 - 你的生活指南",
@@ -1511,7 +1497,7 @@
                     {
                         "dateAdded": 1782956702800,
                         "id": "4413",
-                        "index": 16,
+                        "index": 14,
                         "parentId": "4263",
                         "syncing": true,
                         "title": "小米帮助中心-小米商城",
@@ -1520,7 +1506,7 @@
                     {
                         "dateAdded": 1782956702800,
                         "id": "4414",
-                        "index": 17,
+                        "index": 15,
                         "parentId": "4263",
                         "syncing": true,
                         "title": "国际_澎湃新闻-The Paper",
@@ -1529,7 +1515,7 @@
                     {
                         "dateAdded": 1782956702800,
                         "id": "4415",
-                        "index": 18,
+                        "index": 16,
                         "parentId": "4263",
                         "syncing": true,
                         "title": "实物黄金价格走势查询-贵金属行情中心-金投网",
@@ -1538,7 +1524,7 @@
                     {
                         "dateAdded": 1782956702800,
                         "id": "4416",
-                        "index": 19,
+                        "index": 17,
                         "parentId": "4263",
                         "syncing": true,
                         "title": "浙江政务服务网",
@@ -1585,7 +1571,7 @@
                     },
                     {
                         "dateAdded": 1782956702800,
-                        "dateLastUsed": 1787290621179,
+                        "dateLastUsed": 1789093285140,
                         "id": "4420",
                         "index": 3,
                         "parentId": "4264",
@@ -1669,17 +1655,26 @@
                     },
                     {
                         "dateAdded": 1785829177020,
-                        "dateLastUsed": 1785910586091,
+                        "dateLastUsed": 1788748532741,
                         "id": "4573",
                         "index": 12,
                         "parentId": "4264",
                         "syncing": true,
                         "title": "企业微信 · 文档",
                         "url": "https://doc.weixin.qq.com/home/recent"
+                    },
+                    {
+                        "dateAdded": 1788748586541,
+                        "id": "4581",
+                        "index": 13,
+                        "parentId": "4264",
+                        "syncing": true,
+                        "title": "腾讯企业邮箱-登录入口",
+                        "url": "https://exmail.qq.com/login"
                     }
                 ],
                 "dateAdded": 1782956702770,
-                "dateGroupModified": 1786007712748,
+                "dateGroupModified": 1789111179787,
                 "id": "4264",
                 "index": 10,
                 "parentId": "1",
@@ -2371,7 +2366,7 @@
                     },
                     {
                         "dateAdded": 1782956702802,
-                        "dateLastUsed": 1785381653444,
+                        "dateLastUsed": 1788868046134,
                         "id": "4491",
                         "index": 12,
                         "parentId": "4267",
@@ -2681,6 +2676,7 @@
                     },
                     {
                         "dateAdded": 1782956702803,
+                        "dateLastUsed": 1788830447325,
                         "id": "4524",
                         "index": 17,
                         "parentId": "4268",
@@ -2710,7 +2706,7 @@
                 "children": [
                     {
                         "dateAdded": 1787277888128,
-                        "dateLastUsed": 1787620189495,
+                        "dateLastUsed": 1789137182308,
                         "id": "4579",
                         "index": 0,
                         "parentId": "4269",
@@ -2729,10 +2725,20 @@
                         "url": "https://aihot.virxact.com/"
                     },
                     {
-                        "dateAdded": 1782956702803,
-                        "dateLastUsed": 1787576914605,
-                        "id": "4527",
+                        "dateAdded": 1789111331947,
+                        "dateLastUsed": 1789111348048,
+                        "id": "4584",
                         "index": 2,
+                        "parentId": "4269",
+                        "syncing": true,
+                        "title": "LightHouse Agent",
+                        "url": "https://lightagent.cloud.tencent.com/?id=lhins-6l5ink7n&regionId=15&agentId=main"
+                    },
+                    {
+                        "dateAdded": 1782956702803,
+                        "dateLastUsed": 1789366615865,
+                        "id": "4527",
+                        "index": 3,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "DeepSeek - 探索未至之境",
@@ -2740,9 +2746,29 @@
                     },
                     {
                         "dateAdded": 1782956702803,
-                        "dateLastUsed": 1787533963212,
+                        "dateLastUsed": 1789114072840,
+                        "id": "4531",
+                        "index": 4,
+                        "parentId": "4269",
+                        "syncing": true,
+                        "title": "DeepSeek 开放平台",
+                        "url": "https://platform.deepseek.com/usage"
+                    },
+                    {
+                        "dateAdded": 1789111179787,
+                        "dateLastUsed": 1789111475817,
+                        "id": "4583",
+                        "index": 5,
+                        "parentId": "4269",
+                        "syncing": true,
+                        "title": "DeepSeek Harness",
+                        "url": "http://localhost:3080/"
+                    },
+                    {
+                        "dateAdded": 1782956702803,
+                        "dateLastUsed": 1788759074500,
                         "id": "4530",
-                        "index": 3,
+                        "index": 6,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "V2free",
@@ -2750,8 +2776,9 @@
                     },
                     {
                         "dateAdded": 1782956702803,
+                        "dateLastUsed": 1789092516070,
                         "id": "4528",
-                        "index": 4,
+                        "index": 7,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "服务器 - 轻量云 - 控制台",
@@ -2759,9 +2786,9 @@
                     },
                     {
                         "dateAdded": 1782956702804,
-                        "dateLastUsed": 1786955877619,
+                        "dateLastUsed": 1789138554901,
                         "id": "4545",
-                        "index": 5,
+                        "index": 8,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "豆包 - 字节跳动旗下 AI 智能助手",
@@ -2769,28 +2796,18 @@
                     },
                     {
                         "dateAdded": 1782956702804,
-                        "dateLastUsed": 1787020740932,
+                        "dateLastUsed": 1787710318173,
                         "id": "4542",
-                        "index": 6,
+                        "index": 9,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "通义tongyi.ai_你的全能AI助手-通义千问",
                         "url": "https://tongyi.aliyun.com/qianwen/"
                     },
                     {
-                        "dateAdded": 1782956702803,
-                        "dateLastUsed": 1786696221266,
-                        "id": "4531",
-                        "index": 7,
-                        "parentId": "4269",
-                        "syncing": true,
-                        "title": "DeepSeek 开放平台",
-                        "url": "https://platform.deepseek.com/usage"
-                    },
-                    {
                         "dateAdded": 1786955532542,
                         "id": "4577",
-                        "index": 8,
+                        "index": 10,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "即梦AI - 一站式AI创作平台",
@@ -2800,7 +2817,7 @@
                         "dateAdded": 1782956702803,
                         "dateLastUsed": 1786503929036,
                         "id": "4529",
-                        "index": 9,
+                        "index": 11,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "Help AIO 一站式AI导航 | Claude/Gemini/Codex中转评测比价",
@@ -2810,7 +2827,7 @@
                         "dateAdded": 1782956702804,
                         "dateLastUsed": 1785985923127,
                         "id": "4532",
-                        "index": 10,
+                        "index": 12,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "ChatGPT",
@@ -2819,7 +2836,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4533",
-                        "index": 11,
+                        "index": 13,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
@@ -2828,7 +2845,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4534",
-                        "index": 12,
+                        "index": 14,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "讯飞绘文",
@@ -2837,7 +2854,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4535",
-                        "index": 13,
+                        "index": 15,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "床长人工智能教程",
@@ -2846,7 +2863,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4536",
-                        "index": 14,
+                        "index": 16,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "AINav.net - 一个属于AI人的导航网站",
@@ -2855,7 +2872,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4538",
-                        "index": 15,
+                        "index": 17,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "转写文件_讯飞听见",
@@ -2864,7 +2881,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4539",
-                        "index": 16,
+                        "index": 18,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "功能体验 - 语音识别 - 控制台",
@@ -2873,7 +2890,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4540",
-                        "index": 17,
+                        "index": 19,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "可灵 AI - 新一代 AI 创意生产力平台",
@@ -2882,7 +2899,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4541",
-                        "index": 18,
+                        "index": 20,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "阿里云百炼",
@@ -2891,7 +2908,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4543",
-                        "index": 19,
+                        "index": 21,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "主页 - 扣子",
@@ -2900,7 +2917,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4544",
-                        "index": 20,
+                        "index": 22,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "扣子空间",
@@ -2909,7 +2926,7 @@
                     {
                         "dateAdded": 1782956702804,
                         "id": "4546",
-                        "index": 21,
+                        "index": 23,
                         "parentId": "4269",
                         "syncing": true,
                         "title": "Claude Code 概述 - Claude Code Docs",
@@ -2917,7 +2934,7 @@
                     }
                 ],
                 "dateAdded": 1782956702770,
-                "dateGroupModified": 1787637552638,
+                "dateGroupModified": 1789111344681,
                 "id": "4269",
                 "index": 15,
                 "parentId": "1",
