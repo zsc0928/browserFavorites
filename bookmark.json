@@ -263,27 +263,8 @@
                 "children": [
                     {
                         "dateAdded": 1782956702796,
-                        "dateLastUsed": 1782986299256,
-                        "id": "4293",
-                        "index": 0,
-                        "parentId": "4257",
-                        "syncing": true,
-                        "title": "ICP代备案管理系统",
-                        "url": "https://beian.aliyun.com/pcContainer/myorder"
-                    },
-                    {
-                        "dateAdded": 1782956702796,
-                        "id": "4294",
-                        "index": 1,
-                        "parentId": "4257",
-                        "syncing": true,
-                        "title": "企业认证|域名管理平台：域名注册，域名申请，域名查询，域名应用：eName.Net",
-                        "url": "https://www.ename.net/verify/company"
-                    },
-                    {
-                        "dateAdded": 1782956702796,
                         "id": "4295",
-                        "index": 2,
+                        "index": 0,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "钉钉管理后台",
@@ -293,7 +274,7 @@
                         "dateAdded": 1782956702796,
                         "dateLastUsed": 1792464174177,
                         "id": "4296",
-                        "index": 3,
+                        "index": 1,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "钉钉开发者后台",
@@ -303,7 +284,7 @@
                         "dateAdded": 1782956702796,
                         "dateLastUsed": 1792142164196,
                         "id": "4297",
-                        "index": 4,
+                        "index": 2,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "钉钉合作伙伴平台",
@@ -312,7 +293,7 @@
                     {
                         "dateAdded": 1782956702796,
                         "id": "4298",
-                        "index": 5,
+                        "index": 3,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "获取企业下所有部门列表 - 钉钉开放平台",
@@ -321,7 +302,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4299",
-                        "index": 6,
+                        "index": 4,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "如何通过CLB实现负载均衡-阿里云帮助中心",
@@ -330,7 +311,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4300",
-                        "index": 7,
+                        "index": 5,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "工单中心",
@@ -340,7 +321,7 @@
                         "dateAdded": 1782956702797,
                         "dateLastUsed": 1791770117755,
                         "id": "4301",
-                        "index": 8,
+                        "index": 6,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "商品上架管理",
@@ -349,7 +330,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4302",
-                        "index": 9,
+                        "index": 7,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "钉钉开放平台ISV帮助中心",
@@ -358,7 +339,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4303",
-                        "index": 10,
+                        "index": 8,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "服务引导",
@@ -367,7 +348,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4304",
-                        "index": 11,
+                        "index": 9,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "上架步骤",
@@ -376,7 +357,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4305",
-                        "index": 12,
+                        "index": 10,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "钉钉免登里面，openid，userid和unionid的区别是什么？_问答-阿里云开发者社区",
@@ -385,7 +366,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4306",
-                        "index": 13,
+                        "index": 11,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "获取用户通讯录个人信息 - 钉钉开放平台",
@@ -394,7 +375,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4307",
-                        "index": 14,
+                        "index": 12,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "钉闪会",
@@ -403,7 +384,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4308",
-                        "index": 15,
+                        "index": 13,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "API Explorer",
@@ -412,7 +393,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4309",
-                        "index": 16,
+                        "index": 14,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "事件订阅总览 - 钉钉开放平台",
@@ -422,7 +403,7 @@
                         "dateAdded": 1782956702797,
                         "dateLastUsed": 1786526790233,
                         "id": "4310",
-                        "index": 17,
+                        "index": 15,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "藏经阁_阿里云开发者社区_云计算社区-阿里云",
@@ -431,7 +412,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4311",
-                        "index": 18,
+                        "index": 16,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "Stream Mode | 钉钉开发者百科",
@@ -440,7 +421,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4312",
-                        "index": 19,
+                        "index": 17,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "阿里云培训中心 - 阿里云",
@@ -449,7 +430,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4313",
-                        "index": 20,
+                        "index": 18,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "钉钉ISV学习地图",
@@ -458,7 +439,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4314",
-                        "index": 21,
+                        "index": 19,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "学习地图 - 钉钉开放平台",
@@ -467,7 +448,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4315",
-                        "index": 22,
+                        "index": 20,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "钉钉AI生产力平台构建",
@@ -476,7 +457,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4316",
-                        "index": 23,
+                        "index": 21,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "4、生态类型介绍",
@@ -485,7 +466,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4317",
-                        "index": 24,
+                        "index": 22,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "【调试工具】钉钉开放平台",
@@ -494,7 +475,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4318",
-                        "index": 25,
+                        "index": 23,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "概述 - 钉钉开放平台",
@@ -503,7 +484,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4319",
-                        "index": 26,
+                        "index": 24,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "开始 | 钉钉宜搭",
@@ -512,7 +493,7 @@
                     {
                         "dateAdded": 1782956702797,
                         "id": "4320",
-                        "index": 27,
+                        "index": 25,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "钉钉开放平台",
@@ -521,7 +502,7 @@
                     {
                         "dateAdded": 1792465343844,
                         "id": "4594",
-                        "index": 28,
+                        "index": 26,
                         "parentId": "4257",
                         "syncing": true,
                         "title": "安全准入评估指南 - 钉钉开放平台",
@@ -1227,10 +1208,20 @@
                         "syncing": true,
                         "title": "服务器 - 轻量云 - 控制台",
                         "url": "https://console.cloud.tencent.com/lighthouse/instance/index?rid=15"
+                    },
+                    {
+                        "dateAdded": 1782956702796,
+                        "dateLastUsed": 1792465630915,
+                        "id": "4293",
+                        "index": 7,
+                        "parentId": "4261",
+                        "syncing": true,
+                        "title": "ICP代备案管理系统",
+                        "url": "https://beian.aliyun.com/pcContainer/myorder"
                     }
                 ],
                 "dateAdded": 1782956702770,
-                "dateGroupModified": 1782956702799,
+                "dateGroupModified": 1792465643866,
                 "id": "4261",
                 "index": 7,
                 "parentId": "1",
