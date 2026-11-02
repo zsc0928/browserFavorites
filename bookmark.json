@@ -13,7 +13,7 @@
             },
             {
                 "dateAdded": 1782956702770,
-                "dateLastUsed": 1792028788089,
+                "dateLastUsed": 1793605242623,
                 "id": "4255",
                 "index": 1,
                 "parentId": "1",
@@ -25,7 +25,7 @@
                 "children": [
                     {
                         "dateAdded": 1782956702796,
-                        "dateLastUsed": 1792372369994,
+                        "dateLastUsed": 1793235817674,
                         "id": "4270",
                         "index": 0,
                         "parentId": "4256",
@@ -65,7 +65,7 @@
                     },
                     {
                         "dateAdded": 1782956702796,
-                        "dateLastUsed": 1792388732720,
+                        "dateLastUsed": 1793090222704,
                         "id": "4272",
                         "index": 4,
                         "parentId": "4256",
@@ -272,7 +272,7 @@
                     },
                     {
                         "dateAdded": 1782956702796,
-                        "dateLastUsed": 1792464174177,
+                        "dateLastUsed": 1793416400458,
                         "id": "4296",
                         "index": 1,
                         "parentId": "4257",
@@ -282,7 +282,7 @@
                     },
                     {
                         "dateAdded": 1782956702796,
-                        "dateLastUsed": 1792142164196,
+                        "dateLastUsed": 1792717681942,
                         "id": "4297",
                         "index": 2,
                         "parentId": "4257",
@@ -462,7 +462,7 @@
                     },
                     {
                         "dateAdded": 1782956702797,
-                        "dateLastUsed": 1792466075737,
+                        "dateLastUsed": 1792551913106,
                         "id": "4317",
                         "index": 20,
                         "parentId": "4257",
@@ -542,6 +542,7 @@
                     },
                     {
                         "dateAdded": 1782956702797,
+                        "dateLastUsed": 1792488912994,
                         "id": "4324",
                         "index": 3,
                         "parentId": "4258",
@@ -1062,10 +1063,29 @@
                                 "syncing": true,
                                 "title": "EasyWeb开发文档 · admin",
                                 "url": "https://www.kancloud.cn/sansui/easyweb/2141306"
+                            },
+                            {
+                                "dateAdded": 1793588350871,
+                                "dateLastUsed": 1793602246936,
+                                "id": "4598",
+                                "index": 3,
+                                "parentId": "4369",
+                                "syncing": true,
+                                "title": "Snowy: 最新：������国内首个国密前后分离快速开发平台������，采用Vue3+AntDesignVue4+Vite5+SpringBoot3+Mp+HuTool+SaToken。集成国密加解密插件，在前后分离框架中，实现前后分离“密”不可分；同时实现国产化机型、中间件、数据库适配，是您的不二之选；最后官网提供工作流、多租户、多数据源、Vue3表单设计器等丰富插件灵活使用。",
+                                "url": "https://gitee.com/gwxSnowy/snowy"
+                            },
+                            {
+                                "dateAdded": 1793606452374,
+                                "id": "4599",
+                                "index": 4,
+                                "parentId": "4369",
+                                "syncing": true,
+                                "title": "文档 - 小诺开源技术",
+                                "url": "https://xiaonuo.vip/doc?catalogueId=1574674577108783105&menuId=1574677986159382529&lineIndex=1"
                             }
                         ],
                         "dateAdded": 1782956702798,
-                        "dateGroupModified": 1782956702857,
+                        "dateGroupModified": 1793606452374,
                         "id": "4369",
                         "index": 0,
                         "parentId": "4260",
@@ -1175,7 +1195,7 @@
                     },
                     {
                         "dateAdded": 1782956702799,
-                        "dateLastUsed": 1792372376297,
+                        "dateLastUsed": 1793606162868,
                         "id": "4380",
                         "index": 4,
                         "parentId": "4261",
@@ -1185,7 +1205,7 @@
                     },
                     {
                         "dateAdded": 1782956702799,
-                        "dateLastUsed": 1792143332631,
+                        "dateLastUsed": 1793081446838,
                         "id": "4381",
                         "index": 5,
                         "parentId": "4261",
@@ -1221,10 +1241,19 @@
                         "syncing": true,
                         "title": "藏经阁_阿里云开发者社区_云计算社区-阿里云",
                         "url": "https://developer.aliyun.com/ebook/?spm=a2c6h.26392459.ebook_breadcrumb.d_ebook_breadcrumb_2.52c856bfpGU1GH"
+                    },
+                    {
+                        "dateAdded": 1793081361136,
+                        "id": "4596",
+                        "index": 9,
+                        "parentId": "4261",
+                        "syncing": true,
+                        "title": "HTTPS加密_SSL证书购买_CA证书-北京中域永信网络科技有限公司",
+                        "url": "https://www.zyyx.cn/"
                     }
                 ],
                 "dateAdded": 1782956702770,
-                "dateGroupModified": 1792465944512,
+                "dateGroupModified": 1793588350871,
                 "id": "4261",
                 "index": 7,
                 "parentId": "1",
@@ -1244,7 +1273,7 @@
                     },
                     {
                         "dateAdded": 1782956702799,
-                        "dateLastUsed": 1791444521862,
+                        "dateLastUsed": 1793585427756,
                         "id": "4384",
                         "index": 1,
                         "parentId": "4262",
@@ -1505,7 +1534,7 @@
                     },
                     {
                         "dateAdded": 1782956702800,
-                        "dateLastUsed": 1791611597742,
+                        "dateLastUsed": 1792652563606,
                         "id": "4412",
                         "index": 13,
                         "parentId": "4263",
@@ -1580,7 +1609,7 @@
                     },
                     {
                         "dateAdded": 1782956702800,
-                        "dateLastUsed": 1792391787337,
+                        "dateLastUsed": 1793410071462,
                         "id": "4419",
                         "index": 2,
                         "parentId": "4264",
@@ -1590,7 +1619,7 @@
                     },
                     {
                         "dateAdded": 1782956702800,
-                        "dateLastUsed": 1791424275353,
+                        "dateLastUsed": 1793063923208,
                         "id": "4420",
                         "index": 3,
                         "parentId": "4264",
@@ -2386,7 +2415,7 @@
                     },
                     {
                         "dateAdded": 1782956702802,
-                        "dateLastUsed": 1792026762888,
+                        "dateLastUsed": 1793351333892,
                         "id": "4491",
                         "index": 12,
                         "parentId": "4267",
@@ -2726,7 +2755,7 @@
                 "children": [
                     {
                         "dateAdded": 1787277888128,
-                        "dateLastUsed": 1792461732406,
+                        "dateLastUsed": 1793583435126,
                         "id": "4579",
                         "index": 0,
                         "parentId": "4269",
@@ -2756,7 +2785,7 @@
                     },
                     {
                         "dateAdded": 1782956702803,
-                        "dateLastUsed": 1792459951251,
+                        "dateLastUsed": 1793588629405,
                         "id": "4527",
                         "index": 3,
                         "parentId": "4269",
